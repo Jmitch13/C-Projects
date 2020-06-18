@@ -1,0 +1,4 @@
+To execute use the following commands:
+1) gcc -pthread sorting.c -osorting
+2) ./sorting | tee sorting_output.txt
+   ./sorting by itself also worked for me
