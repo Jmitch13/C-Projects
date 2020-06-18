@@ -1,0 +1,33 @@
+Welcome to myShell
+==> dir
+
+ Volume in drive C has no label.
+ Volume Serial Number is 422E-FF17
+
+ Directory of C:\Users\889528105\Documents
+
+02/22/2020  07:56 PM    <DIR>          .
+02/22/2020  07:56 PM    <DIR>          ..
+02/22/2020  07:56 PM           190,913 a.exe
+02/22/2020  07:50 PM               657 practice.c
+02/22/2020  07:13 PM             1,478 source.c.txt
+02/22/2020  07:53 PM             1,534 thread.c
+02/22/2020  07:37 PM    <DIR>          Visual Studio 2017
+               4 File(s)        194,582 bytes
+               3 Dir(s)  20,680,450,048 bytes free
+
+==> vol
+
+ Volume in drive C has no label.
+ Volume Serial Number is 422E-FF17
+
+==> color 2
+
+
+==> echo e
+
+e
+
+==> exit
+
+Thank you for using myShell!
